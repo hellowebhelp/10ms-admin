@@ -1,0 +1,53 @@
+/**
+* Styles...
+**/
+
+.cat_ground__55lp {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 35% 60%;
+    grid-gap: 15px;
+}
+
+.part__09kl {
+    width: 100%;
+}
+
+.card__topl_padding_09s {
+    width: 99%;
+    margin: auto;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 1.500rem;
+}
+
+.title__908__opl {
+    padding-bottom: 15px;
+}
+
+.title__9dsmd {
+    width: 100%;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 7px;
+    color: #505050;
+    font-weight: 700;
+}
+
+.sub__908j {
+    width: 100%;
+    font-size: 14px;
+    line-height: normal;
+    font-weight: 300;
+    color: #616161;
+}
+
+.submit__908_ground {
+    width: 100%;
+    padding-top: 17px;
+    /* padding-bottom: 10px; */
+    text-align: right;
+}

@@ -1,0 +1,52 @@
+.course_create__ground {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto 300px;
+    grid-gap: 25px;
+}
+
+.part__9s08 {
+    width: 100%;
+}
+
+.card__topl_padding_09s {
+    width: 99%;
+    margin: auto;
+    border: 1px solid #c3c4c7;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 1.500rem;
+}
+
+.card__topl_padding_09s h2 {
+    font-weight: 600;
+}
+
+.styprlo__ground_0p {
+    font-size: 17px !important;
+    font-weight: 600;
+
+}
+
+.status__908__polk {
+    width: 100%;
+
+}
+
+.status__908__polk li {
+    width: 100%;
+    display: flex;
+    place-items: center;
+    color: #5a5a5a;
+    margin-bottom: 6px;
+}
+
+.icon__8s97{
+    margin-right: 5px;
+}
+
+.status__908__polk li b{
+    margin-left: 5px;
+}
